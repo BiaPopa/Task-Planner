@@ -1,6 +1,5 @@
-Popa Bianca, 331CA
+Popa Bianca
 
-Tema #2 APD
 Planificarea de task-uri intr-un datacenter
 
 Pentru rezolvarea temei, au fost implementate clasele MyDispatcher si
